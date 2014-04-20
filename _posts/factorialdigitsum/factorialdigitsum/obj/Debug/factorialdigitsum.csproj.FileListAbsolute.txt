@@ -1,0 +1,6 @@
+c:\users\karthib\documents\visual studio 2013\Projects\factorialdigitsum\factorialdigitsum\bin\Debug\factorialdigitsum.exe.config
+c:\users\karthib\documents\visual studio 2013\Projects\factorialdigitsum\factorialdigitsum\obj\Debug\factorialdigitsum.csprojResolveAssemblyReference.cache
+c:\users\karthib\documents\visual studio 2013\Projects\factorialdigitsum\factorialdigitsum\bin\Debug\factorialdigitsum.exe
+c:\users\karthib\documents\visual studio 2013\Projects\factorialdigitsum\factorialdigitsum\bin\Debug\factorialdigitsum.pdb
+c:\users\karthib\documents\visual studio 2013\Projects\factorialdigitsum\factorialdigitsum\obj\Debug\factorialdigitsum.exe
+c:\users\karthib\documents\visual studio 2013\Projects\factorialdigitsum\factorialdigitsum\obj\Debug\factorialdigitsum.pdb
